@@ -1,7 +1,7 @@
 {
   "entryAssembly": "WebPort",
   "resources": {
-    "hash": "sha256-7XSaRaebpZf0zPQ7IVTMPeeNMtAWHepVLbzzUmBxCOM=",
+    "hash": "sha256-+Nok5cez4m8GMEW9KyajTrzOyJcQqA86jIAOGQdz+Qg=",
     "runtime": {
       "dotnet.6.0.29.fa325trjkw.js": "sha256-BV1wi9qAMCmpfZ+aXPplngN3cFgig0bFqWhNad3R5Lo=",
       "dotnet.wasm": "sha256-Ee/IPPRgVuwVa7z4alaeg8qFE3PK0Hx19y/4CrYOKX8=",
@@ -77,7 +77,7 @@
       "System.Xml.Linq.dll": "sha256-eEWS/v0MbC2h3KZ/pOYN3+dreXjX25Zzcsn0Y9vmV6Y=",
       "System.Xml.ReaderWriter.dll": "sha256-BqNGzgwZVAst9/6pYfmP//jR+P5G3nC9lRkD4jrBj84=",
       "System.Xml.XDocument.dll": "sha256-dTfisOZzShP5IJb1Um4XA8NsvflwyrnQHEJ1haf2AOc=",
-      "WebPort.dll": "sha256-1yz+hQctm1ylQNrI1uVYJ+ygn1bpNU+8MJyHVeor7VI=",
+      "WebPort.dll": "sha256-yf3d2jM7g1iQyGAyTBsqgQpuF3qhd+TOpsr0anuZi4g=",
       "Xna.Framework.dll": "sha256-r9tmQsABFVnSK+k5VlEafANsgqvZbTl/ACUDwM10np0="
     },
     "runtimeAssets": {
